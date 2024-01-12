@@ -1,0 +1,9 @@
+@article{REPO229,
+    author = "Yao, Junmei and Lou, Wei and Xie, Ruitao and Jiao, Xianlong and Wu, Kaishun",
+    journal = "IEEE Transactions on Vehicular Technology",
+    number = "2",
+    pages = "2521-2534",
+    title = "{Mitigating Cross-Technology Interference Through Fast Signal Identification}",
+    volume = "72",
+    year = "2023"
+}
